@@ -1,0 +1,294 @@
+{
+  "phones": [
+    {
+      "id": "1",
+      "brand": "TechStar",
+      "model": "UltraX",
+      "year": 2023,
+      "color": "Mystic Silver",
+      "screen_size": "6.7 inches",
+      "resolution": "1440 x 3200 pixels",
+      "camera": {
+        "main": "64 MP",
+        "front": "32 MP"
+      },
+      "storage": {
+        "internal": "256 GB",
+        "external": "Not supported"
+      },
+      "battery": "4500 mAh",
+      "processor": "Octa-core Exynos 990",
+      "RAM": "8 GB",
+      "operating_system": "Android 13",
+      "price": "$799.99",
+      "availability": "Out of stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Wireless charging",
+        "Water and dust resistance (IP68)"
+      ]
+    },
+    {
+      "id": "2",
+      "brand": "GigaTech",
+      "model": "GigaMax",
+      "year": 2023,
+      "color": "Royal Blue",
+      "screen_size": "6.5 inches",
+      "resolution": "1080 x 2400 pixels",
+      "camera": {
+        "main": "48 MP",
+        "front": "20 MP"
+      },
+      "storage": {
+        "internal": "128 GB",
+        "external": "Expandable up to 512 GB"
+      },
+      "battery": "4000 mAh",
+      "processor": "Octa-core Snapdragon 750G",
+      "RAM": "6 GB",
+      "operating_system": "Android 12",
+      "price": "$499.99",
+      "availability": "In stock",
+      "features": [
+        "4G Connectivity",
+        "Rear-mounted fingerprint sensor",
+        "Fast charging",
+        "Face recognition"
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "Futura",
+      "model": "FuturaPlay",
+      "year": 2023,
+      "color": "Crimson Red",
+      "screen_size": "6.4 inches",
+      "resolution": "1080 x 2340 pixels",
+      "camera": {
+        "main": "52 MP",
+        "front": "25 MP"
+      },
+      "storage": {
+        "internal": "64 GB",
+        "external": "Expandable up to 256 GB"
+      },
+      "battery": "4200 mAh",
+      "processor": "Octa-core MediaTek Dimensity 900",
+      "RAM": "4 GB",
+      "operating_system": "Android 12",
+      "price": "$349.99",
+      "availability": "In stock",
+      "features": [
+        "5G Connectivity",
+        "Rear-mounted fingerprint sensor",
+        "Fast charging",
+        "Face recognition"
+      ]
+    },
+    {
+      "id": "4",
+      "brand": "Quantum",
+      "model": "QuantumEdge",
+      "year": 2023,
+      "color": "Electric Blue",
+      "screen_size": "6.3 inches",
+      "resolution": "1080 x 2280 pixels",
+      "camera": {
+        "main": "42 MP",
+        "front": "16 MP"
+      },
+      "storage": {
+        "internal": "128 GB",
+        "external": "Expandable up to 256 GB"
+      },
+      "battery": "3800 mAh",
+      "processor": "Octa-core Snapdragon 780G",
+      "RAM": "6 GB",
+      "operating_system": "Android 12",
+      "price": "$599.99",
+      "availability": "In stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Fast charging",
+        "Water and dust resistance (IP67)"
+      ]
+    },
+    {
+      "id": "5",
+      "brand": "Lumina",
+      "model": "LuminaView",
+      "year": 2023,
+      "color": "Pearly White",
+      "screen_size": "6.6 inches",
+      "resolution": "1080 x 2400 pixels",
+      "camera": {
+        "main": "58 MP",
+        "front": "28 MP"
+      },
+      "storage": {
+        "internal": "256 GB",
+        "external": "Not supported"
+      },
+      "battery": "5000 mAh",
+      "processor": "Octa-core Exynos 880",
+      "RAM": "8 GB",
+      "operating_system": "Android 13",
+      "price": "$899.99",
+      "availability": "Out of stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Wireless charging",
+        "Water and dust resistance (IP68)"
+      ]
+    },
+    {
+      "id": "6",
+      "brand": "Nextron",
+      "model": "Nextron X1",
+      "year": 2023,
+      "color": "Sapphire Blue",
+      "screen_size": "6.4 inches",
+      "resolution": "1080 x 2340 pixels",
+      "camera": {
+        "main": "48 MP",
+        "front": "32 MP"
+      },
+      "storage": {
+        "internal": "128 GB",
+        "external": "Expandable up to 512 GB"
+      },
+      "battery": "4200 mAh",
+      "processor": "Octa-core MediaTek Dimensity 1200",
+      "RAM": "6 GB",
+      "operating_system": "Android 13",
+      "price": "$699.99",
+      "availability": "In stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Wireless charging",
+        "Water and dust resistance (IP68)"
+      ]
+    },
+    {
+      "id": "7",
+      "brand": "EcoCell",
+      "model": "EcoPro",
+      "year": 2023,
+      "color": "Forest Green",
+      "screen_size": "6.2 inches",
+      "resolution": "1080 x 2280 pixels",
+      "camera": {
+        "main": "44 MP",
+        "front": "20 MP"
+      },
+      "storage": {
+        "internal": "64 GB",
+        "external": "Expandable up to 256 GB"
+      },
+      "battery": "4000 mAh",
+      "processor": "Octa-core Snapdragon 750",
+      "RAM": "6 GB",
+      "operating_system": "Android 12",
+      "price": "$449.99",
+      "availability": "In stock",
+      "features": [
+        "4G Connectivity",
+        "Rear-mounted fingerprint sensor",
+        "Fast charging",
+        "Face recognition"
+      ]
+    },
+    {
+      "id": "8",
+      "brand": "Phantom",
+      "model": "Phantom X",
+      "year": 2023,
+      "color": "Phantom Black",
+      "screen_size": "6.5 inches",
+      "resolution": "1080 x 2400 pixels",
+      "camera": {
+        "main": "60 MP",
+        "front": "24 MP"
+      },
+      "storage": {
+        "internal": "128 GB",
+        "external": "Expandable up to 512 GB"
+      },
+      "battery": "4300 mAh",
+      "processor": "Octa-core Snapdragon 870",
+      "RAM": "6 GB",
+      "operating_system": "Android 12",
+      "price": "$649.99",
+      "availability": "In stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Fast charging",
+        "Water and dust resistance (IP67)"
+      ]
+    },
+    {
+      "id": "9",
+      "brand": "AeroTech",
+      "model": "AeroMax",
+      "year": 2023,
+      "color": "Aero Silver",
+      "screen_size": "6.6 inches",
+      "resolution": "1080 x 2400 pixels",
+      "camera": {
+        "main": "54 MP",
+        "front": "26 MP"
+      },
+      "storage": {
+        "internal": "256 GB",
+        "external": "Not supported"
+      },
+      "battery": "4800 mAh",
+      "processor": "Octa-core Exynos 970",
+      "RAM": "8 GB",
+      "operating_system": "Android 13",
+      "price": "$749.99",
+      "availability": "Out of stock",
+      "features": [
+        "5G Connectivity",
+        "In-display fingerprint sensor",
+        "Wireless charging",
+        "Water and dust resistance (IP68)"
+      ]
+    },
+    {
+      "id": "10",
+      "brand": "Nova",
+      "model": "NovaStar",
+      "year": 2023,
+      "color": "Starry White",
+      "screen_size": "6.4 inches",
+      "resolution": "1080 x 2340 pixels",
+      "camera": {
+        "main": "50 MP",
+        "front": "30 MP"
+      },
+      "storage": {
+        "internal": "128 GB",
+        "external": "Expandable up to 256 GB"
+      },
+      "battery": "4100 mAh",
+      "processor": "Octa-core MediaTek Dimensity 800",
+      "RAM": "6 GB",
+      "operating_system": "Android 12",
+      "price": "$529.99",
+      "availability": "In stock",
+      "features": [
+        "4G Connectivity",
+        "Rear-mounted fingerprint sensor",
+        "Fast charging",
+        "Face recognition"
+      ]
+    }
+  ]
+}
